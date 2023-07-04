@@ -1,21 +1,10 @@
 login test
 
-Scenario login as a valid user
+Scenario
 verify login user name field is present
 verify password field is present
 verify login button is present
 verify forget password link is present
 
 add correct user name and password.
-click login it should be able to login login  
-
- Scenario verify the tabs are  present in dash board
-
-verify login user name field is present
-verify password field is present
-verify login button is present
-verify forget password link is present
-
-add correct user name and password.
-click login it should be able to  login  
-and i should see the tabs.
+click login it should login  
