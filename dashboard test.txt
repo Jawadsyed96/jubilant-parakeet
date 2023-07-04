@@ -1,0 +1,10 @@
+login test
+
+Scenario
+verify login user name field is present
+verify password field is present
+verify login button is present
+verify forget password link is present
+
+add correct user name and password.
+click login it should login  
