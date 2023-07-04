@@ -19,3 +19,5 @@ verify forget password link is present
 add correct user name and password.
 click login it should be able to  login  
 and i should see the tabs.
+
+you should see the account tab
